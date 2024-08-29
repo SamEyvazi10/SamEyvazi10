@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameyvazi10&label=Profile%20views&color=0e75b6&style=flat" alt="sameyvazi10" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sameyvazi10" target="blank"><img src="https://img.shields.io/twitter/follow/sameyvazi10?logo=twitter&style=for-the-badge" alt="sameyvazi10" /></a> </p>
 
 - 🌱 I’m currently learning **React**
 
@@ -15,6 +15,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/sameyvazi10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sameyvazi10" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sameyvazi10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sameyvazi10" height="30" width="40" /></a>
+<a href="https://instagram.com/sameyvazi10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sameyvazi10" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/sameyvazi10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sameyvazi10" height="30" width="40" /></a>
 <a href="https://discord.gg/wolf__1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="wolf__1999" height="30" width="40" /></a>
 </p>
 
