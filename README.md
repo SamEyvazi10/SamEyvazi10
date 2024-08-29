@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sam</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/236x/d3/db/e3/d3dbe3af0dfef384f824ef40c1af36f7.jpg">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2F723390758929438717%2F&psig=AOvVaw3CS2vDtpQLF7t0PMhjnsoB&ust=1725050143724000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCICcwvSGm4gDFQAAAAAdAAAAABAN">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameyvazi10&label=Profile%20views&color=0e75b6&style=flat" alt="sameyvazi10" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sameyvazi10" target="blank"><img src="https://img.shields.io/twitter/follow/sameyvazi10?logo=twitter&style=for-the-badge" alt="sameyvazi10" /></a> </p>
