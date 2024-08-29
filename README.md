@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sam</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fapple-made-an-ad-to-highlight-the-history-of-macbooks-in-anime--627196685622567942%2F&psig=AOvVaw3luonr0Ud3n8P3uN6qECvQ&ust=1725049837730000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKDmi82Fm4gDFQAAAAAdAAAAABAc">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/236x/d3/db/e3/d3dbe3af0dfef384f824ef40c1af36f7.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sameyvazi10&label=Profile%20views&color=0e75b6&style=flat" alt="sameyvazi10" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sameyvazi10" target="blank"><img src="https://img.shields.io/twitter/follow/sameyvazi10?logo=twitter&style=for-the-badge" alt="sameyvazi10" /></a> </p>
