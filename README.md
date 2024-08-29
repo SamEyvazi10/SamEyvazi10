@@ -1,6 +1,6 @@
 <img align="right" alt="Coding" width="400" 
-src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbalootchap.ir%2F%25DA%2586%25D8%25A7%25D9%25BE-%25D8%25B9%25DA%25A9%25D8%25B3-%25D8%25B1%25D9%2588%25DB%258C-%25D8%25A8%25D9%2586%25D8%25B1%2F&psig=AOvVaw3Fe8lVBFNnnUkwm65Glllr&ust=1725051399111000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLC3l7eLm4gDFQAAAAAdAAAAABAE">
-
+src="https://balootchap.ir/wp-content/uploads/2019/01/balootchap.ir-chapetasvirroyebanner.jpg"
+>
 
 <h1 align="center">Hi 👋, I'm Sam</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
